@@ -5,7 +5,7 @@
   "updateSize": "36 MB",
   "releaseDate": "July 15, 2025",
   "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
-  "downloadLink": "https://www.dropbox.com/scl/fi/vh2i12bz6ldueizrf4twf/Prime-Video_org.apk?rlkey=cgtntqpoqgut515spk0fmfnus&st=yvdg0yvh&dl=1",
+  "downloadLink": "https://www.dropbox.com/scl/fi/gc471kxkqphtc8x75bsga/Prime-Video_org_anti.apk?rlkey=uoq1oh8dwm5okuudzw07satwe&st=qdeczpco&dl=1",
   "Browser link": "https://www.designlabofficial.site/p/download.html",
   "forceUpdate": true,
   "Direct Function": true
